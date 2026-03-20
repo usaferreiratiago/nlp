@@ -14,6 +14,7 @@ dependencies = [
     "langchain-openai==0.1.23",
     "langchain-text-splitters==0.2.4",
     "langgraph>=0.2.19",
+    "lxml>=6.0.2",
     "matplotlib>=3.10.8",
     "nltk>=3.9.3",
     "numpy==1.26.4",
@@ -33,4 +34,5 @@ dependencies = [
     "tensorflow>=2.18.1",
     "tiktoken>=0.12.0",
     "torch>=2.10.0",
+    "wikipedia>=1.4.0",
 ]
